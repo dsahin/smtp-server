@@ -5,7 +5,7 @@
   "main": "lib/smtp-server.js",
   "scripts": {
     "test": "grunt",
-    "start": "node server.js"
+    "start": "node examples/server.js"
   },
   "author": "Andris Reinman",
   "license": "MIT",
